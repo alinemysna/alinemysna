@@ -1,4 +1,4 @@
-## Aline Mysna
+## Hello, my name is Aline Mysna
 
 <div>
    <a href="https://github.com/alinemysna">
